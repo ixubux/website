@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/fonts.css">
 
 # Welcome to ixubux's BlogPost.
 
