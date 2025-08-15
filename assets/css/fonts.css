@@ -1,7 +1,7 @@
 /* Bold */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-Bold.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
