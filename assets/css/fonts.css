@@ -95,5 +95,5 @@
 }
 
 * {
-  font-family: 'SFUIText-Light', 'SFUIText-Medium';
+  font-family: 'SFUIText-Light', 'SFUIText-Medium' !important;
 }
