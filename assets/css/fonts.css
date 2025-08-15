@@ -9,7 +9,7 @@
 /* Bold Italic */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-BoldItalic.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-BoldItalic.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
 }
@@ -17,7 +17,7 @@
 /* Heavy */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-Heavy.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-Heavy.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
@@ -25,7 +25,7 @@
 /* Heavy Italic */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-HeavyItalic.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-HeavyItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
@@ -33,7 +33,7 @@
 /* Light */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-Light.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
@@ -41,7 +41,7 @@
 /* Light Italic */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-LightItalic.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
@@ -49,7 +49,7 @@
 /* Medium */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-Medium.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
@@ -57,7 +57,7 @@
 /* Medium Italic */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-MediumItalic.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
@@ -65,7 +65,7 @@
 /* Regular */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-Regular.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
@@ -73,7 +73,7 @@
 /* Regular Italic */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-RegularItalic.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-RegularItalic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
 }
@@ -81,7 +81,7 @@
 /* Semibold */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-Semibold.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-Semibold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
@@ -89,7 +89,7 @@
 /* Semibold Italic */
 @font-face {
     font-family: 'SFUIText';
-    src: url('/assets/fonts/SFUIText-SemiboldItalic.ttf') format('truetype');
+    src: url('assets/fonts/SFUIText-SemiboldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
 }
