@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="../assets/css/fonts.css">
 # MK1300 V2
 
 ### Yep, that is the keyboard I bought recently (7 Aug 2025) for ₹1200 ($13.72)
